@@ -1,0 +1,2 @@
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\Content\obj\x86\Release\ResolveAssemblyReference.cache

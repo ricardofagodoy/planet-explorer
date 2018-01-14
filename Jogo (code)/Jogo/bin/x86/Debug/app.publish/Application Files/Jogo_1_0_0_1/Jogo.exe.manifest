@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Jogo.exe" version="1.0.0.1" publicKeyToken="2cb5cc6160a5d1d7" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Game.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Jogo" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Jogo.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto UAC 
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó 
+          requestedExecutionLevel por um dos itens a seguir.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e do Registro para compatibilidade com versões anteriores, 
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jogo.exe" size="137216">
+      <assemblyIdentity name="Jogo" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>VHcCfUn657vSOgmTKoP5rQ+eAWQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Game.ico" size="766">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>T7zexO9tvys6GHykTxiSx9NyRD0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="GameThumbnail.png" size="5734">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>diNvdcDpDtGEMuMQIHpkKK3qVHc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PC1\Ricardo" issuerKeyHash="e01588786c8912dd393bdc0a5f946ebcf1caab4b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>NUx7Qi4FVf+7amWDuT+Hu4+Ct7k=</DigestValue></Reference></SignedInfo><SignatureValue>SOLNkPrwpeWIy1LraPdTCC/3h3qLNdhi7+WYGDpMwVqIi4F7Bo7UtQU6CRPRiTZN6ikvUkvDC3B19BnT1QJ5X1YE9ZPFezn1WGWzM+aXy4kUpn+owsTgE36s9qLPsbuuuCvrStTbdZxdtBZLP9O5Cmi2K8FicsALaQc/WS87f/M=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>m989tJ3xQgBIYnctYVzbrYyLLWzJm39TNfkMbOjIjoznu9Ew6AHKOquQfq5jerMyDgTCCQtBvg7U8pSB8ZVW6Q4YoyBNSkOfcE6jE3cYo3RDzRPUNvI7cvaRYbJ1QZo3iMddKLCe8k16kWjT4bH8gvvov+ABYu4pOxEBrvL3KVM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b9b7828fbb873fb983656abbff55052e427b4c35" Description="" Url=""><as:assemblyIdentity name="Jogo.exe" version="1.0.0.1" publicKeyToken="2cb5cc6160a5d1d7" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PC1\Ricardo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3H6i8s1Q1AWtu9AKP9TQVIPkmUU=</DigestValue></Reference></SignedInfo><SignatureValue>P/lsA4GHKjl+PTEeFQ02nZJetSpTnP4aRMkwO8/k3NfoArnM9PV8/NUCrapgb3S4ZVgfYtBamp3HDKuxQrsHOJ2djGoNSB1COHWgpA+GeK0/Y0PNRjx5c+gXLsIF6H/EsQ5KVTV5p86jsctzH1x4A+bIgcJwzl6EjUYLrvVVkko=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>m989tJ3xQgBIYnctYVzbrYyLLWzJm39TNfkMbOjIjoznu9Ew6AHKOquQfq5jerMyDgTCCQtBvg7U8pSB8ZVW6Q4YoyBNSkOfcE6jE3cYo3RDzRPUNvI7cvaRYbJ1QZo3iMddKLCe8k16kWjT4bH8gvvov+ABYu4pOxEBrvL3KVM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASqgAwIBAgIQb+rntJDuQL5H+lnOrjOnojAJBgUrDgMCHQUAMCExHzAdBgNVBAMeFgBQAEMAMQBcAFIAaQBjAGEAcgBkAG8wHhcNMTEwOTIzMDIxMjQ0WhcNMTIwOTIyMDgxMjQ0WjAhMR8wHQYDVQQDHhYAUABDADEAXABSAGkAYwBhAHIAZABvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCb3z20nfFCAEhidy1hXNutjIstbMmbf1M1+Qxs6MiOjOe70TDoAco6q5B+rmN6szIOBMIJC0G+DtTylIHxlVbpDhijIE1KQ59wTqMTdxijdEPNE9Q28jty9pFhsnVBmjeIx10osJ7yTXqRaNPhsfyC++i/4AFi7ik7EQGu8vcpUwIDAQABMAkGBSsOAwIdBQADgYEAClaATL25tTfjB4PzkGW//ouTWkpkEDTHNALif2fi0V6j3DE7/JismclmQ49xRA3MICkWirpez6IgB9mkd5OJ9vIizTlEt/O9PsUS0pRXF8guYkaxozpMhTw+zCljzxUH7doUYsztBPvmq24tYiqEvYPhHNvtoc8zurYKl6TpOjc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

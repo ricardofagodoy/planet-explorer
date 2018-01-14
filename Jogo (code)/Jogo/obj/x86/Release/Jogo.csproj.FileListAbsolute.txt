@@ -1,0 +1,65 @@
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\afrprojetao.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\cursor_menu.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\fundo1.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\fundo2.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\block01.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\block02.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro1.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\tile0.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\tile1.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\morrendo.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\background.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro2.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro3.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\menu.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\cursor.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\nascendo.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\spriteprincipal.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item1.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\gameovers.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item2.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Content\fontes\basica.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Jogo.exe.manifest
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Jogo.application
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Jogo.exe
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Release\Jogo.pdb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Release\Jogo.exe.manifest
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Release\Jogo.application
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Release\Jogo.exe
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Release\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\afrprojetao.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\cursor_menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\fundo1.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\fundo2.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\block01.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\block02.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro1.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\tile0.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\tile1.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\morrendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\background.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro2.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro3.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\cursor.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\nascendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item1.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\gameovers.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item2.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\itemcabeca.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\fontes\basica.xnb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Jogo.exe.manifest
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Jogo.application
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Release\Jogo.exe.manifest
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Release\Jogo.application
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Release\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Release\Jogo.pdb

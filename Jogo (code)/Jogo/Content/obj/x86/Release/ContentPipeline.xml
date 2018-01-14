@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>imagens\afrprojetao.PNG</Source>
+      <Name>imagens\afrprojetao</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\afrprojetao.xnb</Output>
+      <Time>2011-07-24T22:21:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\cursor_menu.bmp</Source>
+      <Name>imagens\cursor_menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\cursor_menu.xnb</Output>
+      <Time>2011-07-24T22:35:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\fundo1.PNG</Source>
+      <Name>imagens\fundo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\fundo1.xnb</Output>
+      <Time>2011-07-31T00:43:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\fundo2.PNG</Source>
+      <Name>imagens\fundo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\fundo2.xnb</Output>
+      <Time>2011-07-31T00:43:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\block01.png</Source>
+      <Name>imagens\block01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\block01.xnb</Output>
+      <Time>2011-08-22T15:51:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\block02.png</Source>
+      <Name>imagens\block02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\block02.xnb</Output>
+      <Time>2011-08-22T15:47:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\monstro1.bmp</Source>
+      <Name>imagens\monstro1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro1.xnb</Output>
+      <Time>2011-08-31T16:23:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile0.PNG</Source>
+      <Name>imagens\tile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\tile0.xnb</Output>
+      <Time>2011-08-29T15:04:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile1.bmp</Source>
+      <Name>imagens\tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\tile1.xnb</Output>
+      <Time>2011-08-29T15:59:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\morrendo.bmp</Source>
+      <Name>imagens\morrendo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\morrendo.xnb</Output>
+      <Time>2011-09-12T17:04:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\background.jpg</Source>
+      <Name>imagens\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\background.xnb</Output>
+      <Time>2011-09-08T15:15:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\monstro2.bmp</Source>
+      <Name>imagens\monstro2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro2.xnb</Output>
+      <Time>2011-09-14T13:59:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\monstro3.bmp</Source>
+      <Name>imagens\monstro3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\monstro3.xnb</Output>
+      <Time>2011-09-22T16:53:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\menu.PNG</Source>
+      <Name>imagens\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\menu.xnb</Output>
+      <Time>2011-09-22T16:30:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\cursor.bmp</Source>
+      <Name>imagens\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\cursor.xnb</Output>
+      <Time>2011-09-14T14:54:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\nascendo.bmp</Source>
+      <Name>imagens\nascendo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\nascendo.xnb</Output>
+      <Time>2011-09-19T15:06:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\item.bmp</Source>
+      <Name>imagens\item</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item.xnb</Output>
+      <Time>2011-09-19T14:21:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\spriteprincipal.bmp</Source>
+      <Name>imagens\spriteprincipal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\spriteprincipal.xnb</Output>
+      <Time>2011-09-19T15:01:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\item1.bmp</Source>
+      <Name>imagens\item1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item1.xnb</Output>
+      <Time>2011-09-21T19:09:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\gameovers.PNG</Source>
+      <Name>imagens\gameovers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\gameovers.xnb</Output>
+      <Time>2011-09-21T19:35:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\item2.bmp</Source>
+      <Name>imagens\item2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\item2.xnb</Output>
+      <Time>2011-09-22T15:53:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\itemcabeca.PNG</Source>
+      <Name>imagens\itemcabeca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\imagens\itemcabeca.xnb</Output>
+      <Time>2011-09-23T14:04:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>fontes\basica.spritefont</Source>
+      <Name>fontes\basica</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\fontes\basica.xnb</Output>
+      <Time>2011-08-22T14:31:32-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Ricardo\Desktop\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-04-01T23:51:20.5-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

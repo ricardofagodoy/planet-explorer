@@ -1,0 +1,20 @@
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Jogo\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Cópia de Jogo\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Jogo3\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\beta\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\betaa\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\PlanetExplorer\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\PlanetExplorer\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\PlanetExplorer (final)\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\Content\obj\x86\Debug\ResolveAssemblyReference.cache

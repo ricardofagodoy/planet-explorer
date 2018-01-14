@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fontes\basica.spritefont</Source>
+      <Name>fontes\basica</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\fontes\basica.xnb</Output>
+      <Time>2011-11-08T14:30:22-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\fundo2.PNG</Source>
+      <Name>imagens\fundo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb</Output>
+      <Time>2011-07-31T00:43:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\monstro1.bmp</Source>
+      <Name>imagens\monstro1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb</Output>
+      <Time>2011-08-31T16:23:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile0.PNG</Source>
+      <Name>imagens\tile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb</Output>
+      <Time>2011-08-29T15:04:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile1.bmp</Source>
+      <Name>imagens\tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb</Output>
+      <Time>2011-08-29T15:59:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\morrendo.bmp</Source>
+      <Name>imagens\morrendo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb</Output>
+      <Time>2011-09-12T17:04:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\monstro2.bmp</Source>
+      <Name>imagens\monstro2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb</Output>
+      <Time>2011-09-14T13:59:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\monstro3.bmp</Source>
+      <Name>imagens\monstro3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb</Output>
+      <Time>2011-09-26T15:04:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\menu.PNG</Source>
+      <Name>imagens\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\menu.xnb</Output>
+      <Time>2011-11-15T10:26:28-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\cursor.bmp</Source>
+      <Name>imagens\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb</Output>
+      <Time>2011-09-14T14:54:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\nascendo.bmp</Source>
+      <Name>imagens\nascendo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb</Output>
+      <Time>2011-09-19T15:06:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\item.bmp</Source>
+      <Name>imagens\item</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\item.xnb</Output>
+      <Time>2011-09-19T14:21:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\spriteprincipal.bmp</Source>
+      <Name>imagens\spriteprincipal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb</Output>
+      <Time>2011-09-19T15:01:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\item1.bmp</Source>
+      <Name>imagens\item1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\item1.xnb</Output>
+      <Time>2011-11-05T00:20:20-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\gameovers.PNG</Source>
+      <Name>imagens\gameovers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb</Output>
+      <Time>2011-09-21T19:35:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\item2.bmp</Source>
+      <Name>imagens\item2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\item2.xnb</Output>
+      <Time>2011-10-31T14:42:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\itemcabeca.PNG</Source>
+      <Name>imagens\itemcabeca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb</Output>
+      <Time>2011-09-23T14:04:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\check1.PNG</Source>
+      <Name>imagens\check1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\check1.xnb</Output>
+      <Time>2011-09-26T17:03:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\check2.PNG</Source>
+      <Name>imagens\check2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\check2.xnb</Output>
+      <Time>2011-09-26T17:03:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\cursorpause.PNG</Source>
+      <Name>imagens\cursorpause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb</Output>
+      <Time>2011-09-28T13:28:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\pausegame.PNG</Source>
+      <Name>imagens\pausegame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb</Output>
+      <Time>2011-09-28T13:28:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\nave.bmp</Source>
+      <Name>imagens\nave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\nave.xnb</Output>
+      <Time>2011-11-15T11:41:24-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\vidd.png</Source>
+      <Name>imagens\vidd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb</Output>
+      <Time>2011-10-03T17:24:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile15.bmp</Source>
+      <Name>imagens\tile15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb</Output>
+      <Time>2011-10-05T15:11:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile10.bmp</Source>
+      <Name>imagens\tile10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb</Output>
+      <Time>2011-11-08T15:09:16-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile11.bmp</Source>
+      <Name>imagens\tile11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb</Output>
+      <Time>2011-10-05T15:10:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile12.bmp</Source>
+      <Name>imagens\tile12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb</Output>
+      <Time>2011-11-04T14:16:48-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile13.bmp</Source>
+      <Name>imagens\tile13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb</Output>
+      <Time>2011-10-05T15:11:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile14.bmp</Source>
+      <Name>imagens\tile14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb</Output>
+      <Time>2011-10-05T15:11:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile16.bmp</Source>
+      <Name>imagens\tile16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb</Output>
+      <Time>2011-10-05T15:12:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile17.bmp</Source>
+      <Name>imagens\tile17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb</Output>
+      <Time>2011-10-05T15:12:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile18.bmp</Source>
+      <Name>imagens\tile18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb</Output>
+      <Time>2011-11-08T15:04:00-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile19.bmp</Source>
+      <Name>imagens\tile19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb</Output>
+      <Time>2011-10-05T15:13:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile2.png</Source>
+      <Name>imagens\tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb</Output>
+      <Time>2011-10-05T15:06:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile20.bmp</Source>
+      <Name>imagens\tile20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb</Output>
+      <Time>2011-10-05T15:14:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile3.bmp</Source>
+      <Name>imagens\tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb</Output>
+      <Time>2011-10-05T15:06:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile4.bmp</Source>
+      <Name>imagens\tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb</Output>
+      <Time>2011-11-08T15:17:20-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile5.bmp</Source>
+      <Name>imagens\tile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb</Output>
+      <Time>2011-11-08T15:17:38-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile6.bmp</Source>
+      <Name>imagens\tile6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb</Output>
+      <Time>2011-10-05T15:08:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile7.bmp</Source>
+      <Name>imagens\tile7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb</Output>
+      <Time>2011-10-05T15:08:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile8.bmp</Source>
+      <Name>imagens\tile8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb</Output>
+      <Time>2011-11-08T15:16:44-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\tile9.bmp</Source>
+      <Name>imagens\tile9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb</Output>
+      <Time>2011-11-08T15:16:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\opcoes.PNG</Source>
+      <Name>imagens\opcoes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb</Output>
+      <Time>2011-10-17T17:27:46-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\off.PNG</Source>
+      <Name>imagens\off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\off.xnb</Output>
+      <Time>2011-10-25T13:50:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\onn.PNG</Source>
+      <Name>imagens\onn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\onn.xnb</Output>
+      <Time>2011-10-25T15:46:30-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\Stage.bmp</Source>
+      <Name>imagens\Stage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb</Output>
+      <Time>2011-10-31T16:53:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\ajuda.PNG</Source>
+      <Name>imagens\ajuda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb</Output>
+      <Time>2011-10-31T14:58:32-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\ajuda2.PNG</Source>
+      <Name>imagens\ajuda2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb</Output>
+      <Time>2011-10-31T14:58:36-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\afr.PNG</Source>
+      <Name>imagens\afr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\afr.xnb</Output>
+      <Time>2011-07-24T22:21:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\infoPlanetExplorer.bmp</Source>
+      <Name>imagens\infoPlanetExplorer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb</Output>
+      <Time>2011-11-01T16:35:52-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\background.jpg</Source>
+      <Name>imagens\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\background.xnb</Output>
+      <Time>2011-09-08T15:15:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\block01.png</Source>
+      <Name>imagens\block01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\block01.xnb</Output>
+      <Time>2011-11-02T00:02:46-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\h1.bmp</Source>
+      <Name>imagens\h1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\h1.xnb</Output>
+      <Time>2011-11-15T11:05:52-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\h2.bmp</Source>
+      <Name>imagens\h2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\h2.xnb</Output>
+      <Time>2011-11-15T11:07:18-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\h3.bmp</Source>
+      <Name>imagens\h3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\h3.xnb</Output>
+      <Time>2011-11-15T11:09:02-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\pulo.bmp</Source>
+      <Name>imagens\pulo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb</Output>
+      <Time>2011-11-07T15:20:38-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\cursoropcoes.PNG</Source>
+      <Name>imagens\cursoropcoes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb</Output>
+      <Time>2011-10-17T16:29:20-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\spriteprincipalarmadura.bmp</Source>
+      <Name>imagens\spriteprincipalarmadura</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\spriteprincipalarmadura.xnb</Output>
+      <Time>2011-11-07T15:05:44-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\c1.PNG</Source>
+      <Name>imagens\c1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\c1.xnb</Output>
+      <Time>2011-11-08T15:34:22-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\c2.PNG</Source>
+      <Name>imagens\c2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\c2.xnb</Output>
+      <Time>2011-11-10T14:10:16-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imagens\venceu.bmp</Source>
+      <Name>imagens\venceu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\venceu.xnb</Output>
+      <Time>2011-11-01T16:49:26-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\b.mp3</Source>
+      <Name>sons\b</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\b.xnb</Output>
+      <Extra>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\b.wma</Extra>
+      <Time>2011-10-12T23:52:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\fase.mp3</Source>
+      <Name>sons\fase</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase.xnb</Output>
+      <Extra>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase.wma</Extra>
+      <Time>2011-11-15T01:41:08-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\fase2.mp3</Source>
+      <Name>sons\fase2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase2.xnb</Output>
+      <Extra>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase2.wma</Extra>
+      <Time>2011-11-15T01:40:28-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\fase3.mp3</Source>
+      <Name>sons\fase3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase3.xnb</Output>
+      <Extra>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase3.wma</Extra>
+      <Time>2011-11-15T01:39:46-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\moeda.mp3</Source>
+      <Name>sons\moeda</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\moeda.xnb</Output>
+      <Extra>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\moeda.wma</Extra>
+      <Time>2011-11-15T01:46:14-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Y:\PlanetExplorer (final) ORIGINAL\Jogo\Content\</RootDirectory>
+      <LoggerRootDirectory>Y:\PlanetExplorer (final) ORIGINAL\Jogo\</LoggerRootDirectory>
+      <IntermediateDirectory>Y:\PlanetExplorer (final) ORIGINAL\Jogo\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-07-02T09:20:57.9739409-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

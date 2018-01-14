@@ -1,0 +1,952 @@
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Jogo.exe
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\obj\x86\Debug\Jogo.exe
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\Jogo\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Jogo\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Y:\Jogo\Jogo\obj\x86\Debug\Jogo.exe
+Y:\Jogo\Jogo\obj\x86\Debug\Jogo.pdb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Jogo.exe
+Y:\Jogo\Jogo\bin\x86\Debug\Jogo.pdb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Documents and Settings\u10286\Desktop\Jogo\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Jogo.exe
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Jogo.pdb
+Y:\Cópia de Jogo\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Cópia de Jogo\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Y:\Cópia de Jogo\Jogo\obj\x86\Debug\Jogo.exe
+Y:\Cópia de Jogo\Jogo\obj\x86\Debug\Jogo.pdb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+Y:\Cópia de Jogo\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+Y:\Jogo\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\Jogo3\Jogo\bin\x86\Debug\Jogo.exe
+Y:\Jogo3\Jogo\bin\x86\Debug\Jogo.pdb
+Y:\Jogo3\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Jogo3\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Y:\Jogo3\Jogo\obj\x86\Debug\Jogo.exe
+Y:\Jogo3\Jogo\obj\x86\Debug\Jogo.pdb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+Y:\beta\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\beta\Jogo\bin\x86\Debug\Jogo.exe
+Y:\beta\Jogo\bin\x86\Debug\Jogo.pdb
+Y:\beta\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\beta\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Y:\beta\Jogo\obj\x86\Debug\Jogo.exe
+Y:\beta\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\obj\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+C:\Documents and Settings\Ricardo\Desktop\beta\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\betaa\Jogo\bin\x86\Debug\Jogo.exe
+Y:\betaa\Jogo\bin\x86\Debug\Jogo.pdb
+Y:\betaa\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\betaa\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Y:\betaa\Jogo\obj\x86\Debug\Jogo.exe
+Y:\betaa\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\obj\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\Projeto Beta\Jogo\obj\x86\Debug\Jogo.pdb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Jogo.exe
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Jogo.pdb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Debug\Jogo.exe
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Debug\Jogo.pdb
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Jogo.exe.manifest
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\bin\x86\Debug\Jogo.application
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Debug\Jogo.exe.manifest
+K:\ESCOLA ABERTA\Projeto Beta\Jogo\obj\x86\Debug\Jogo.application
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Jogo.exe.manifest
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Jogo.application
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Jogo.exe
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Jogo.pdb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Debug\Jogo.exe.manifest
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Debug\Jogo.application
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Debug\Jogo.exe
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\obj\x86\Debug\Jogo.pdb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+E:\ESCOLA ABERTA\src\Projeto Beta\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\afrprojetao.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe.manifest
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.application
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe
+K:\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.pdb
+K:\PlanetExplorer\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\PlanetExplorer\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe.manifest
+K:\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.application
+K:\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe
+K:\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.pdb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe.manifest
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.application
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.pdb
+Y:\PlanetExplorer\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\PlanetExplorer\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Y:\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe.manifest
+Y:\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.application
+Y:\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe
+Y:\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursor_menu.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\block02.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.application
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.application
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.application
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.application
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\Projetão\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h1.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h2.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h3.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb
+Y:\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\spriteprincipalarmadura.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\h3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Content\imagens\spriteprincipalarmadura.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.application
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.application
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h1.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h2.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h3.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\spriteprincipalarmadura.xnb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.application
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.application
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.exe
+C:\Documents and Settings\Ricardo\Desktop\projetos cotuca\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.pdb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h1.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h2.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h3.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\spriteprincipalarmadura.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.exe.manifest
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.application
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.exe
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.pdb
+Y:\PlanetExplorer (final)\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\PlanetExplorer (final)\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Y:\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.exe.manifest
+Y:\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.application
+Y:\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.exe
+Y:\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.pdb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\c1.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\c2.xnb
+Y:\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\venceu.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\fundo1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h3.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\spriteprincipalarmadura.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\c1.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\c2.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\venceu.xnb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.application
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.exe
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.exe.manifest
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.application
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.exe
+C:\Documents and Settings\u10255\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.exe
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\venceu.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\spriteprincipalarmadura.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h1.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\c1.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\h3.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\c2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.exe.manifest
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.application
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.exe
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Jogo.pdb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.exe.manifest
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\obj\x86\Debug\Jogo.application
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\b.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\b.wma
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\fase3.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\fase3.wma
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\fase2.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\fase.wma
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\fase2.wma
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\fase.xnb
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\moeda.wma
+C:\Users\Guto\Desktop\PlanetExplorer (final)\Jogo\bin\x86\Debug\Content\sons\moeda.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\fontes\basica.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\fundo2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\monstro1.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile0.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile1.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\morrendo.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\monstro2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\monstro3.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\menu.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\cursor.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\nascendo.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\item.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\spriteprincipal.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\item1.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\gameovers.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\item2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\itemcabeca.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\check1.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\check2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\cursorpause.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\pausegame.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\nave.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\vidd.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile15.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile10.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile11.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile12.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile13.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile14.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile16.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile17.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile18.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile19.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile20.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile3.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile4.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile5.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile6.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile7.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile8.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\tile9.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\opcoes.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\off.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\onn.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\Stage.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\ajuda.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\ajuda2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\afr.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\infoPlanetExplorer.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\background.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\block01.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\h1.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\h2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\h3.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\pulo.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\cursoropcoes.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\spriteprincipalarmadura.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\c1.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\c2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\imagens\venceu.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\b.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase2.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase3.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\moeda.xnb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\b.wma
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase.wma
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase2.wma
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\fase3.wma
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Content\sons\moeda.wma
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Jogo.exe.manifest
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Jogo.application
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Jogo.exe
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\bin\x86\Debug\Jogo.pdb
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\obj\x86\Debug\Jogo.exe.manifest
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\obj\x86\Debug\Jogo.application
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\obj\x86\Debug\Jogo.exe
+Y:\PlanetExplorer (final) ORIGINAL\Jogo\obj\x86\Debug\Jogo.pdb
